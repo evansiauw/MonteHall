@@ -1,0 +1,54 @@
+Here are some examples of the expected output of the Monte Hall Problem after running MonteHallN.java
+Expected result:
+P(winning by switching) is approximately (n-1)/n where n is the number of doors
+P(winning by staying) is approximately 1/n where n is the number of doors
+
+Number of doors: 100
+After 1000 trials,
+The probability of winning by switching is 987/1000
+The probability of winning by staying is 13/1000
+
+Number of doors: 100
+After 10000 trials,
+The probability of winning by switching is 9912/10000
+The probability of winning by staying is 88/10000
+
+Number of doors: 10
+After 1000 trials,
+The probability of winning by switching is 898/1000
+The probability of winning by staying is 102/1000
+
+Number of doors: 10
+After 10000 trials,
+The probability of winning by switching is 9003/10000
+The probability of winning by staying is 997/10000
+
+Number of doors: 50
+After 1000 trials,
+The probability of winning by switching is 983/1000
+The probability of winning by staying is 17/1000
+
+Number of doors: 50
+After 10000 trials,
+The probability of winning by switching is 9781/10000
+The probability of winning by staying is 219/10000
+
+Number of doors: 500
+After 1000 trials,
+The probability of winning by switching is 996/1000
+The probability of winning by staying is 4/1000
+
+Number of doors: 500
+After 10000 trials,
+The probability of winning by switching is 9975/10000
+The probability of winning by staying is 25/10000
+
+Number of doors: 1000
+After 1000 trials,
+The probability of winning by switching is 999/1000
+The probability of winning by staying is 1/1000
+
+Number of doors: 1000
+After 10000 trials,
+The probability of winning by switching is 9987/10000
+The probability of winning by staying is 13/10000
